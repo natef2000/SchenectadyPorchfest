@@ -1,0 +1,280 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+/* Useful Utility Classes Below */
+
+body{
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+p {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 28px;
+  font-weight: 450;
+  font-style: normal;
+}
+
+
+nav {
+	font-family: "Bebas Neue", sans-serif;
+	font-weight: 400;
+  font-style: normal;
+}
+
+nav a {
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 8px;
+	padding-top: 8px;
+	text-decoration: none;
+	color: #ffffff;
+}
+
+nav a:hover {
+	text-decoration: none;
+	color: #192841;
+}
+
+
+
+
+.img-center {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.display-inline-block {
+	display: inline-block;
+}
+
+
+.blue-link {
+	text-decoration: none;
+	background-color: #192841;
+	color: #ffffff;
+	border-color: #192841;
+	border-width: 2px;
+}
+
+.blue-link:hover {
+	color: #192841;
+	background-color: #ffffff;
+}
+
+
+
+
+
+
+.item-margin{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+.top-pad {
+	padding-top: 23px;
+}
+
+
+
+.nav-pad {
+	padding-top: 85px;
+}
+
+
+.container-spacing {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	padding-right:  30px;
+}
+
+
+.section-padding {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	padding-left: 20px;
+	padding-right:  20px;
+}
+
+.bg-blue {
+	background-color: #192841;
+	color: #ffffff;
+}
+
+.bg-tan {
+	background-color: #fff0c4;
+}
+
+.bg-black {
+	background-color: #000;
+	color: #ffffff;
+}
+
+
+.bg-green {
+	background-color: #76c247;
+}
+
+.bg-pink {
+	background-color: #ffb2a2;
+	color: #192841;
+}
+
+.bg-white {
+	background-color: #ffffff;
+	color: #192841;
+}
+
+
+
+.text-pink {
+	color: #ffb2a2;
+}
+
+.text-white {
+	color:ffffff;
+}
+
+.text-black {
+	color: #000000;
+}
+
+
+.extra-padding {
+	padding-bottom: 120px;
+}
+
+.bottom-padding {
+	padding-bottom: 24px;
+}
+
+.top-padding {
+	padding-top: 32px;
+}
+
+
+.logopadding {
+	padding-top: 16px;
+	padding-bottom: 16px;
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.titlepadding {
+	padding-top: 24px;
+}
+
+.text-left {
+	text-align: left;
+}
+
+.image-right {
+	margin-right: 0px;
+}
+
+.burger-padding {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.align-center {
+	display: flex;
+	align-items: center;
+	text-align: center;
+}
+
+.center {
+	display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+
+
+a {
+	text-decoration: none;
+	color:#ffffff;
+}
+
+a:hover {
+	text-decoration: none;
+	color:#ffb2a2;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	padding-top: 8px;
+}
+
+
+h1 {
+	font-size: 80px;
+	letter-spacing: 1px;
+}
+
+h2 {
+	font-size: 60px;
+	letter-spacing: 1px;
+}
+
+h3 {
+	font-size: 42px;
+	letter-spacing: 1px;
+}
+
+h3 {
+	font-size: 36px;
+	letter-spacing: 1px;
+}
+
+h4 {
+	letter-spacing: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.text-center{
+	text-align: center;
+}
+
+.img-center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.center-block{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.float-left{
+	float: left;
+	padding-right: 1em;
+}
+
+.float-right{
+	float: right;
+	padding-left: 1em;
+}
+
+/* Useful Utility Classes Above */
